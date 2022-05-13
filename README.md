@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently mastering springboot, spring security, tensorflow, algorithmic trading with C++, Web3, and AWS.
 - 👯 I’m looking to collaborate on any project I have the skills to add value to.
 - 📫 How to reach me: tj03554@georgiasouthern.edu (preferred) or temiteejegede@gmail.com || LinkedIn: https://www.linkedin.com/in/temitopedjegede/
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Temitopejegede)
