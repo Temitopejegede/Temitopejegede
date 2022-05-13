@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
  
  <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
 👋 Hello everyone! My name is Temi Jegede. I am a master's student at Georgia Southern University where I am studying computer science. For my undergrad, I graduated with a double major in Electrical and Computer Engineering and a minor in computer science. My focus for my master's program is both software engineering and artificial intelligence. I love learning new technologies and thinking of ways I can apply things I build in the real world. I am very open to job opportunities because I will be graduating in May 2023. I am open to software engineer and machine learning engineer roles.
 
 
