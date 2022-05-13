@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project I have the skills to add value to.
 - 📫 How to reach me: tj03554@georgiasouthern.edu (preferred) or temiteejegede@gmail.com || LinkedIn: https://www.linkedin.com/in/temitopedjegede/
 
+⚡ Languages and technologies I use: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
